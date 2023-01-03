@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "exec": "npx ts-node src/$npm_config_dir/${npm_config_file}.ts"
+    "exec": "npx ts-node src/$npm_config_dir/${npm_config_fileName}.ts"
   },
   "repository": {
     "type": "git",
