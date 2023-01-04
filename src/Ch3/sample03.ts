@@ -50,4 +50,6 @@ type HumanFamily = {
     mother: Human;
     father: Human;
     child: Human;
-}
+};
+
+export {};
