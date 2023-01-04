@@ -93,4 +93,4 @@ const myObj2: MyObj2 = {
 console.log('myObj2:', myObj2);
 
 
-//export {};
+export {};
