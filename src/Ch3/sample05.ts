@@ -59,3 +59,5 @@ console.log(tupleArray);
 // ただし、オブジェクトのように、その識別子をキーのように利用して値にアクセスすることはできない。
 const tupleWithLabelArray: [name: string, age: number, test: boolean] = ['太郎', 22, false];
 console.log(tupleWithLabelArray);
+
+export {};

@@ -48,3 +48,5 @@ for (const user of users) {
         console.log(`${user.name}（${user.age}）はプレミアムユーザーではありません。`);
     }
 }
+
+export {};

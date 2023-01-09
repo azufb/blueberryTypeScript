@@ -11,3 +11,5 @@ console.log(map);
 
 // getメソッドで、キーを指定すると、そのキーの値が取得できる。
 console.log(map.get('キー'));
+
+export {};

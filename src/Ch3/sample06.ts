@@ -47,3 +47,5 @@ const sampleObj: SampleObjType = {
 const { foo: str, ...restObj } = sampleObj;
 console.log(str);
 console.log(restObj); // { bar: 'Taro', baz: 20, fbz: true }
+
+export {};
