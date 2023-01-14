@@ -83,3 +83,5 @@ const addName = <T extends string>(element: T, length: number): T[] => {
 };
 
 console.log(addName<string>('hanako', 3));
+
+export {};
