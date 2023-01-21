@@ -76,3 +76,5 @@ class User2 implements HasName {
         this.#age = age;
     }
 }
+
+export {};
