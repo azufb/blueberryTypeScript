@@ -66,3 +66,5 @@ const taro: Human2 = {
     age: 24,
     name: 'taro'
 };
+
+export {};
