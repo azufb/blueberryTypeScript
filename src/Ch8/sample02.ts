@@ -17,4 +17,4 @@ fs.readFile('./sample02.txt', 'utf-8', (data: any) => {
 console.log('2. 読み込みを開始しました');
 
 // 実行時、以下コメントアウト。
-//export {};
+export {};
