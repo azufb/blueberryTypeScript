@@ -44,3 +44,5 @@ q.then((num) => {
   console.log(`num is ${num}`); // ⑥
 });
 console.log('get5を呼び出しました！'); // ③
+
+export {};
